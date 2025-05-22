@@ -36,3 +36,6 @@ My Role:
 - Save and Load System: Designed and implemented the system that handles saving and loading of player progress.
 
 - Menu Design and Functionality: Designed most of the game's menus (main menu, settings, pause menu, etc.) and implemented their functionality, including navigation, settings handling, and integration with gameplay.
+
+
+Project files are stored locally since I don't have access to the project repository anymore so I can't import it straight to GitHub
